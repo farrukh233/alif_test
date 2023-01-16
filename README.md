@@ -9,6 +9,8 @@
 
 В качестве сборщика использовал Vite. Удобный, быстрый.
 
+# Ссылка на деплой: https://rainbow-alfajores-e0467a.netlify.app/
+
 Инструкция по запуску:
 
 1. git clone https://github.com/farrukh233/alif_test.git
