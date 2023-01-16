@@ -9,7 +9,7 @@
 
 В качестве сборщика использовал Vite. Удобный, быстрый.
 
-# Ссылка на деплой: https://rainbow-alfajores-e0467a.netlify.app/
+#### Ссылка на деплой: https://rainbow-alfajores-e0467a.netlify.app/
 
 Инструкция по запуску:
 
