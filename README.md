@@ -11,5 +11,7 @@
 
 Инструкция по запуску:
 
-1. yarn (установить зависимости)
-2. yarn dev (запуск проекта)
+1. git clone https://github.com/farrukh233/alif_test.git
+2. git checkout master
+3. yarn (установить зависимости)
+4. yarn dev (запуск проекта)
